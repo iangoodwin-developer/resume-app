@@ -1,0 +1,115 @@
+@import "variables.scss";
+
+/*
+ * JOB
+ */
+.job {
+  padding: 20px 0;
+  border-bottom: 1px dotted $color-lightgrey;
+}
+
+.job:first-of-type {
+  padding-top: 0;
+}
+
+.job__date {
+  font-size: 14px;
+  font-weight: 300;
+}
+
+.job__paragraph {
+  font-style: italic;
+}
+
+/*
+ * SKILLS
+ */
+.skill {
+  margin: 2px 4px 2px 0;
+  color: $color-white;
+  padding: 8px;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.4);
+  border-radius: 2px;
+  background: $color-blue;
+  cursor: pointer;
+}
+
+.skills-list {
+  display: flex;
+  flex-flow: row wrap;
+  list-style: none;
+}
+
+body {
+  padding-bottom: $footer-height + 20;
+} 
+
+/*
+ * FOOTER
+ */
+.footer {
+    width: 100%;
+    height: $footer-height;
+    line-height: $footer-height;
+    background-color: $color-dark;
+    margin-top: 20px;
+}
+/*
+ * NAVBAR
+ */
+.navbar-brand {
+  color: $color-dark;
+}
+
+a {
+  color: $color-lightgrey;
+  font-weight: 200;
+}
+/*
+ * JOB
+ */
+.job__date {
+  font-size: 14px;
+  font-weight: 300;
+}
+
+/*
+ * PROFILE
+ */
+
+ .profile {
+  background-image: url(./images/ian.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 180px;
+  width: 169px;
+ }
+
+/*
+ * LOGO
+ */
+.logo {
+  background-image: url(./images/logo.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 50px;
+  width: 60px;
+}
+/*
+ * JUMBOTRON
+ */
+
+.jumbotron {
+  /*background-image: url(./images/code.png);*/
+  background-color: #333;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  color: white;
+  margin-bottom: 20px;
+}
+
+.modal-title {
+  color:$color-lightgrey;
+}
+

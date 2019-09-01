@@ -1,0 +1,230 @@
+{
+  "site" : {
+    "pages" : [
+      "About",
+      "Skills",
+      "Experience",
+      "Education",
+      "Testimonials",      
+      "Contact"
+    ]
+  },
+  "resume" : {
+    "basics": {
+      "name": "Ian James Goodwin",
+      "label": "Software Developer",
+      "email": "ianjamesgoodwin@gmail.com",
+      "skype": "igoodwin",
+      "messenger" : "ian.james.goodwin.1974",
+      "linkedin" : "ian-goodwin-90a8a129",
+      "phone": "+45 25479898",
+      "summary": " I'm an enthusiastic, ambitious, creative, expressive and an innovative software developer. I like a challenge and clear goals. Normally I'm positive, easy-going and informal and I like to give my opinion and participate. I consider myself a skilled at writing well-designed, testable and efficient code using current best practices in Web development. A fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools, I am experienced in full project life cycle from design to implementation to integration. I am driven by a passion for making great looking, powerful, and easy to use applications that work cross-browser and cross-platform. I aim to be a part of a high performance team developing software which gives the user an experience which is productive, meaningful, and enjoyable.",
+      "location": {
+        "postalCode": "8464",
+        "city": "Galten",
+        "countryCode": "DK",
+        "region": "Skanderborg"
+      },
+      "pdf": "ian-goodwin.pdf"
+    },
+    "work": [
+      {
+        "company": "Bestseller / Only",
+        "current": true,
+        "position": "Fullstack Developer",
+        "startDate": "May 2019",
+        "endDate": "",
+        "summary": "Maintainance and development of new features for Only's webshop as well as deveopment of internal tools for the team",
+        "highlights": [
+          "Automated internal tasks which were once done manually, such as categorization of new styles for the shop",
+          "Redesign and coding for the shop including the homepage, product listing page and product detail page",
+          "A/B tested multiple components to improve basket size by 58 kr per transaction",
+          "Coding / development of in house tools for product enrichment",
+          "Code review of pull requests for other developers in Bestseller",
+          "Examining trends on the shop through tracking and A/B tests"
+        ] 
+      },
+      {
+        "company": "Getinge Cetrea A/S",
+        "current": false,
+        "position": "Software Developer",
+        "startDate": "December 2015",
+        "endDate": "March 2019",
+        "summary": "Development / programming on the browser based SPA Integrated Workflow Solutions, which provides realtime patient flow management for hospitals around the world",
+        "highlights": [
+          "Coding / development of new features",
+          "Finding and fixing bugs",
+          "Writing unit tests",
+          "Tech lead on specific projects",
+          "Documentation / specification for new features",
+          "Feature development time estimation and task breakdown into Jira tickets",
+          "Development and maintenance of styleguide",
+          "Maintenance and responsibility for continuous integration system",
+          "Participation in daily standups as part of the agile workflow"
+        ]
+      },
+      {
+        "company": "Bestseller / Vero Moda",
+        "current": false,
+        "position": "Frontend Developer",
+        "startDate": "May 2013",
+        "endDate": "August 2015",
+        "summary": "Design and development for the web shop veromoda.dk",
+        "highlights": [
+          "Primary development responsibility for the internationally recognized Bestseller brand across European markets",
+          "Creating seasonal campaign pages including single page applications, landing pages, product display templates",
+          "Design and development of responsive email marketing templates",
+          "Developing systems for easy updates and maintenance of campaigns using spreed sheets and scripts using XML",
+          "Responsive layout development for tablets and mobile",
+          "Google analytics implementation and analysis",
+          "Close collaboration with graphic designers and project planners, photographers and writers",
+          "Integrating and aligning social media such as Facebook, Pinterest and Twitter with the web shop using APIs",
+          "Testing and documentation"
+        ]
+      },
+      {
+        "company": "Flying Dog Media",
+        "current": false,
+        "position": "Web Developer",
+        "startDate": "Jan 2008",
+        "endDate": "March 2012",
+        "summary": "Design, code and maintain websites for businesses in a wide-range of industries.",
+        "highlights": [
+          "Designing and developing websites using CMS, PHP, HTML5, CSS3, & javascript.",
+          "Making the websites responsive for tablet and mobile devices",
+          "Researching and implementing templates for the further design",
+          "Customizing templates using PHP",
+          "Database administration for content using MySQL",
+          "Communicate remotely with clients via email, skype meetings, and through project management tools such as BaseCamp",
+          "Documentation of my work for easy handover to other developers"
+        ]
+      },
+      {
+        "company": "Designlens",
+        "current": false,
+        "position": "Web Developer / Graphics",
+        "startDate": "May 2002",
+        "endDate": "April 2007",
+        "summary": "Develop and manage the worlds largest online library of architecture of over 75,000 images",
+        "highlights": [
+          "Photo editing in Adobe Photoshop",
+          "Database management using Python and PostgreSQL",
+          "Frontend development for web application in HTML and JavaScript",
+          "Video production and web streaming"
+        ]
+      },
+      {
+        "company": "Impact Creative",
+        "current": false,
+        "position": "Web Developer / Graphics",
+        "startDate": "June 1995",
+        "endDate": "Jan 2002",
+        "summary": "Video production specialist for a variety of business in the silicon valley area",
+        "highlights": [
+          "Non-linear video editing",
+          "Graphic design in Adobe Photoshop",
+          "Animation design and development in Adobe After Effects and 3d Studio Max",
+          "On site video production",
+          "Editing video with the client present",
+          "Web streaming for video"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Aarhus Business Academy",
+        "area": "Web development",
+        "studyType": "Bachelors's degree",
+        "endDate": "2013"
+      },
+      {
+        "institution": "Aarhus Tech",
+        "area": "Multimedia design",
+        "studyType": "Associate's degree",
+        "endDate": "2011"
+      },
+      {
+        "institution": "Cabrillo college",
+        "area": "Music",
+        "studyType": "Associate of the Arts degree",
+        "endDate": "1999"
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "Jens Gram",
+        "position": "Lead Developer, Technical Lead",
+        "company" : "Getinge Cetrea A/S",
+        "testimony": "Ian has been a valuable contributor to our AngularJS SPA; performing bug fixing, maintenance work, and developing new features according to solution descriptions. Furthermore, he's able to collaborate with everyone in an open and constructive manner (e.g., while reviewing pull requests from peers which is an important part of a normal workday). Ian’s intuitive feel for the wellbeing of colleagues as well as his attention to his work environment sets him apart from your regular developer. All in all, Ian comes with my warmest recommendations."
+      },
+      {
+        "name": "Ronnie Trøjborg",
+        "position": "Team Lead",
+        "company" : "Getinge Cetrea A/S",
+        "testimony": "He has been a valuable asset to our team working as a software developer in our Aarhus office. He is both very bright and very motivated to always ensure that the solution has a solid foundation.Throughout his time at our office Ian has proven to be both loyal and hardworking. Based on our experience together, I can confidently recommend Ian without any hesitation. I am positive that he will become a productive member of any development team that he ends up at."
+      },
+      {
+        "name": "Tina Lomholdt Jensen",
+        "position": "Manager",
+        "company" : "Bestseller / Vero Moda",
+        "testimony": "Ian is determined and good at helping his colleagues when needed. He takes care of his duties and is a dedicated employee."
+      },
+      {
+        "name": "Jim Bain",
+        "position": "Owner",
+        "company" : "Flying Dog Media",
+        "testimony": "Ian has repeatedly demonstrated the ability to master this complexity with very little guidance. Ianʼs ingenuity and ability to learn on his own will be the cornerstones to a successful technology career."
+      },
+      {
+        "name": "Josh Englander",
+        "position": "Owner",
+        "company" : "Designlens",
+        "testimony": "Ian has always performed his responsibilities with professionalism and timeliness. He has repeatedly gone beyond expectations."
+      },
+      {
+        "name": "Eric Thiermann",
+        "position": "Owner",
+        "company" : "Impact Creative",
+        "testimony": "He is exceptionally talented, focused, and congenial to work with, and I credit him with spearheading many of the best works produced for my company during that time period."
+      }
+
+      
+
+    ],
+    "skills": [
+     
+      {"keyword" : "HTML", "level": 4},
+      {"keyword" : "CSS", "level": 4},
+      {"keyword" : "Javascript", "level": 3},
+      {"keyword" : "ES6", "level": 2},
+      {"keyword" : "React", "level": 2},
+      {"keyword" : "AngularJS", "level": 3},
+      {"keyword" : "REST APIs", "level": 3},
+      {"keyword" : "Vagrant", "level": 1},
+      {"keyword" : "Git", "level": 3},
+      {"keyword" : "Jquery", "level": 3},
+      {"keyword" : "Salesforce", "level": 2},
+      {"keyword" : "Sass", "level": 3},
+      {"keyword" : "Less", "level": 3},
+      {"keyword" : "Jenkins", "level": 2},
+      {"keyword" : "Jasmine", "level": 1},
+      {"keyword" : "Mocha", "level": 1},
+      {"keyword" : "Typescript", "level": 1},
+      {"keyword" : "GraphQL", "level": 1},
+      {"keyword" : "MySQL", "level": 3},
+      {"keyword" : "Java", "level": 1},
+      {"keyword" : "C#", "level": 1},
+      {"keyword" : "Wordpress", "level": 1},
+      {"keyword" : "Joomla", "level": 3},
+      {"keyword" : "Photoshop", "level": 2},
+      {"keyword" : "After Effects", "level": 3},
+      {"keyword" : "Premiere", "level": 2},
+      {"keyword" : "Postman", "level": 2},
+      {"keyword" : "Bootstrap", "level": 2},
+      {"keyword" : "ExpressJS", "level": 1},
+      {"keyword" : "NodeJS", "level": 2}
+
+    ]
+  }
+
+}
