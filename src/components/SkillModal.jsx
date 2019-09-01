@@ -7,7 +7,6 @@ class SkillModal extends Component {
   	const progress = this.props.progress
 
     return (
-
 		  <div 	className="modal fade" id={`modal-${modalIndex}`}
 		  		tabIndex="-1" 
 		  		role="dialog" 

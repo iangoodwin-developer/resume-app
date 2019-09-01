@@ -4,14 +4,12 @@ class Job extends Component {
   render() {
     const { details } = this.props;
     const jobIndex = this.props.jobIndex
-    return (
-     
+    return (  
       <div className="job">
         <div>
           <h3>{details.company}</h3>
           <h5>{details.position}</h5>
         </div>
-      
         <div className="job__date">
           {
             details.current ? 
@@ -20,9 +18,8 @@ class Job extends Component {
           }
         </div>
         <br/>
-      
         <p><em className="lead">{details.summary}</em></p>
-        <div className="w-50">
+        <div>
           <button type="button" 
                   className="btn btn-link"
                   data-toggle="collapse" 
@@ -30,7 +27,6 @@ class Job extends Component {
                   role="button">
             Details
           </button>
-
           <div className="collapse" id={"collapseDetails-" + jobIndex}>
             <div>
               <ul className="list-style">
