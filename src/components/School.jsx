@@ -1,17 +1,17 @@
 import React, { Component } from 'react';
 
-class Job extends Component {
+class School extends Component {
   render() {
     const { details } = this.props;
     const schoolIndex = this.props.schoolIndex
     return (
-      <div className="job">
+      <div className="experience-item">
         <div>
           <h3>{details.institution}</h3>
           <h5>{details.area}</h5>
           <h6><em>{details.studyType}</em></h6>
         </div>
-        <div className="job__date">
+        <div className="experience-item__date">
           Completed in {details.endDate}
         </div>    
       </div>
@@ -20,4 +20,4 @@ class Job extends Component {
   }
 }
 
-export default Job;
+export default School;

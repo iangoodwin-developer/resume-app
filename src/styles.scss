@@ -3,22 +3,18 @@
 /*
  * JOB
  */
-.job {
+.experience-item {
   padding: 20px 0;
   border-bottom: 1px dotted $color-lightgrey;
 }
 
-.job:first-of-type {
+.experience-item:first-of-type {
   padding-top: 0;
 }
 
-.job__date {
+.experience-item__date {
   font-size: 14px;
   font-weight: 300;
-}
-
-.job__paragraph {
-  font-style: italic;
 }
 
 /*
@@ -65,18 +61,10 @@ a {
   color: $color-lightgrey;
   font-weight: 200;
 }
-/*
- * JOB
- */
-.job__date {
-  font-size: 14px;
-  font-weight: 300;
-}
 
 /*
  * PROFILE
  */
-
  .profile {
   background-image: url(./images/ian.png);
   background-size: cover;
@@ -95,10 +83,10 @@ a {
   height: 50px;
   width: 60px;
 }
+
 /*
  * JUMBOTRON
  */
-
 .jumbotron {
   /*background-image: url(./images/code.png);*/
   background-color: #333;

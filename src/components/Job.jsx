@@ -5,12 +5,12 @@ class Job extends Component {
     const { details } = this.props;
     const jobIndex = this.props.jobIndex
     return (  
-      <div className="job">
+      <div className="experience-item">
         <div>
           <h3>{details.company}</h3>
           <h5>{details.position}</h5>
         </div>
-        <div className="job__date">
+        <div className="experience-item__date">
           {
             details.current ? 
             `Current Job as of ${details.startDate}` : 
