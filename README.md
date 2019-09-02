@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Installation
 
-### `git clone` https://github.com/iangoodwin-developer/resume-app.git 
+### `git clone https://github.com/iangoodwin-developer/resume-app.git` 
 
 Clones the project onto your local environment.
 
