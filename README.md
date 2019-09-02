@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Installation
 
-`git clone` https://github.com/iangoodwin-developer/resume-app.git 
+### `git clone` https://github.com/iangoodwin-developer/resume-app.git 
 
 Clones the project onto your local environment.
 
@@ -14,9 +14,8 @@ In the project directory, you can run:
 
 ### `npm start` 
 
-Runs the app in the development mode.<br>
+This runs the app in the development mode.<br><br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
 
 ## About the app
 
@@ -24,8 +23,8 @@ This app was developed as a way to demonstrate a basic React project.
 
 ### React Router
 
-Single Page Applications or SPAs need client side routing to allow navigation through a React application UI which usually contains multiple pages or views.
-<br>
+Single Page Applications or SPAs need client side routing to allow navigation through a React application UI which usually contain multiple pages or views.
+<br><br>
 React Router facilitates keeping the application UI and the URL in synchronization. This is also known as declarative routing.
 
 ### HashRouter
@@ -35,13 +34,13 @@ I have chosen to use HashRouter, which utilizes the URL hash. Server-side routin
 ### SCSS
 
 SCSS has been used in this app to allow for the use of variables in the CSS styling. Variables make it easy to control the logic of the styling in an app and facilitate consistency of colors, spacing, layouts and other stylistic components across styling modules.
-<br>
+<br><br>
 As the app grows, SCSS features such as nesting, mixins, and operators can also be used to reduce and organise code.
 
 ### JSON data
 
 A local JSON data file has been used to organize the data points for the app. This facilitates clean, concise code in the app logic in the form of looping over arrays to generate html elements. This method has been used for the navigation, and for some of the pages which have repeated elements.
-<br>
+<br><br>
 While this JSON data has been added as a local file, in most use cases, the JSON data would be retrieved in an API call to fetch the data from some other source such as a database or another application. In this case, the only change would be the way the JSON data is retrieved. The useage of the data would remain the same.
 
 ### Known issues
@@ -51,9 +50,9 @@ Due to a bug in the version of Bootstrap used in this app, the modal overlay whi
 ### Missing react feature: state
 
 This app makes no use of one of the key features of React, state. Managing state in a React app is one of the biggest challenges in using React, and state is also one of the most powerful features of React. State is the interface between the app data from any kind of backend or local change and the representation of this data with the UI in the frontend. State is able to keep the data of different components in sync because each state update will rerender all relevant components. State can be a medium to communicate between different components as well.
-<br>
+<br><br>
 In a large application, state management may require a library or API such as Redux or Unstated. The use of these can solve some of the challenges of sharing state between parent and child or sibling components in an app, which can be tricky when dealing with larger applications.
-<br>
+<br><br>
 I plan to create another app which uses state. It will be a todo list, and will use React state without any libraries or APIs. This will be a way of demonstrating a basic understanding of the management of state in a small React app. 
 
 
