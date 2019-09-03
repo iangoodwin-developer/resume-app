@@ -55,6 +55,6 @@ This app makes no use of one of the key features of React, state. Managing state
 <br><br>
 In a large application, state management may require a library or API such as Redux or Unstated. The use of these can solve some of the challenges of sharing state between parent and child or sibling components in an app, which can be tricky when dealing with larger applications.
 <br><br>
-I plan to create another app which uses state. It will be a todo list, and will use React state without any libraries or APIs. This will be a way of demonstrating a basic understanding of the management of state in a small React app. 
+For an example of an app which uses state, please see todo-app https://github.com/iangoodwin-developer/todo-app
 
 
