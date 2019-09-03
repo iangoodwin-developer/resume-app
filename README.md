@@ -45,6 +45,8 @@ While this JSON data has been added as a local file, in most use cases, the JSON
 
 ### Known issues
 
+Using Bootstrap to manipulate the DOM in a React application is generally not good practice. In future development I would like to remove bootstrap for all DOM manipulation (perhaps leave it for styling), and replace it with React components. Examples of where this could be done is in the collapsing navigation and the modal overlays.
+<br><br>
 Due to a bug in the version of Bootstrap used in this app, the modal overlay which appears when clicking on an individual skill on the Skills page causes an error "Modal is transitioning", which does not appear to break the app. This can potentially be solve by updating the version of Bootstrap, which I will do at a later point. Because the app still works, this is not a critical issue.
 
 ### Missing react feature: state
