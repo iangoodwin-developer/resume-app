@@ -5,7 +5,8 @@
       "Skills",
       "Experience",
       "Education",
-      "Testimonials",      
+      "Testimonials",
+      "Links",     
       "Contact"
     ]
   },
@@ -17,6 +18,8 @@
       "skype": "igoodwin",
       "messenger" : "ian.james.goodwin.1974",
       "linkedin" : "ian-goodwin-90a8a129",
+      "github" : "iangoodwin-developer",
+      "pdf": "ian_goodwin.pdf",
       "phone": "+45 25479898",
       "summary": " I'm an enthusiastic, ambitious, creative, expressive and an innovative software developer. I like a challenge and clear goals. Normally I'm positive, easy-going and informal and I like to give my opinion and participate. I consider myself a skilled at writing well-designed, testable and efficient code using current best practices in Web development. A fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools, I am experienced in full project life cycle from design to implementation to integration. I am driven by a passion for making great looking, powerful, and easy to use applications that work cross-browser and cross-platform. I aim to be a part of a high performance team developing software which gives the user an experience which is productive, meaningful, and enjoyable.",
       "location": {
@@ -24,8 +27,7 @@
         "city": "Galten",
         "countryCode": "DK",
         "region": "Skanderborg"
-      },
-      "pdf": "ian-goodwin.pdf"
+      } 
     },
     "work": [
       {
@@ -187,12 +189,8 @@
         "company" : "Impact Creative",
         "testimony": "He is exceptionally talented, focused, and congenial to work with, and I credit him with spearheading many of the best works produced for my company during that time period."
       }
-
-      
-
     ],
     "skills": [
-     
       {"keyword" : "HTML", "level": 4},
       {"keyword" : "CSS", "level": 4},
       {"keyword" : "Javascript", "level": 3},
@@ -223,8 +221,6 @@
       {"keyword" : "Bootstrap", "level": 2},
       {"keyword" : "ExpressJS", "level": 1},
       {"keyword" : "NodeJS", "level": 2}
-
     ]
   }
-
 }
