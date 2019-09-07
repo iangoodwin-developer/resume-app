@@ -2,7 +2,7 @@ import React from 'react';
 import Jumbotron from '../components/Jumbotron.jsx';
 
 function Contact(props) {
-  const { email, messenger, skype, linkedin, github } = props.resumeObj.basics
+  const { email, messenger, skype } = props.resumeObj.basics
 
   return (
     <div>

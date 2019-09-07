@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import { HashRouter, Route, Redirect } from 'react-router-dom';
 import './styles.scss';
 import About from './pages/About.jsx';
